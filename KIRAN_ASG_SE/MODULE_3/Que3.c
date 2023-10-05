@@ -1,3 +1,5 @@
+//WAP ENTER THE 5 SUBJECTS.you have to make a total and find the percentage
+
 #include<stdio.h>
 
 
