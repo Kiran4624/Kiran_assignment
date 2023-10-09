@@ -15,7 +15,8 @@ int main()
         
        for(col =1; col <= row; col += 1) 
        {
-        printf(" %d ",count += 1);
+        printf(" %d ",count);
+           count += 1;
        }
     
     printf("\n");
