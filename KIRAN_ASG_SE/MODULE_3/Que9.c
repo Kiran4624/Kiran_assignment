@@ -4,10 +4,10 @@ int main()
 {    
     int array[50], max, size, c, loc = 1;
     
-    printf("Enter the number of elements \n");
+    printf("Enter the number of elements : \n");
     scanf("%d", &size);
     
-    printf("Enter %d integer\n", size);
+    printf("Enter integer %d\n", size);
     
     for (c = 0; c < size; c+=1)
         scanf("%d", &array[c]);
